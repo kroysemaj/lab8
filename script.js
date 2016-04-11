@@ -19,8 +19,3 @@ groceryList.forEach(function(item) {
 
 console.log(total);
 
-
-
-
-/* var apple = {name:"apple", price: 4};
- var graceryList = [ apple, grape, peach]*/
